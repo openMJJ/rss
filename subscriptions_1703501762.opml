@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+	<head>
+		<title>subscriptions in flowerss</title>
+		<dateCreated>Mon, 25 Dec 2023 10:56:02 UTC</dateCreated>
+	</head>
+	<body>
+		<outline text="BBC" type="rss" xmlUrl="https://feedx.net/rss/bbc.xml"></outline>
+		<outline text="McKinsey Greater China - 洞见" type="rss" xmlUrl="https://rsshub.app/mckinsey/cn"></outline>
+		<outline text="MisakaNo の 小破站" type="rss" xmlUrl="https://blog.misaka.rest/atom.xml"></outline>
+		<outline text="Mr.Pu 个站博客" type="rss" xmlUrl="https://www.putianhui.cn/atom.xml"></outline>
+		<outline text="VPS攻略" type="rss" xmlUrl="https://www.vpsgongyi.net/feed"></outline>
+		<outline text="ahhhhfs" type="rss" xmlUrl="https://www.ahhhhfs.com/feed/"></outline>
+		<outline text="tanglu&#39;s blog" type="rss" xmlUrl="https://blog.tanglu.me/atom.xml"></outline>
+		<outline text="爱墨迹" type="rss" xmlUrl="https://imgki.com/feed/"></outline>
+		<outline text="百度股市通" type="rss" xmlUrl="https://rsshub.app/baidu/gushitong/index"></outline>
+		<outline text="财经频道--上海热线" type="rss" xmlUrl="https://rich.online.sh.cn/rich/gb/special/rich.xml"></outline>
+		<outline text="德讯证顾" type="rss" xmlUrl="https://dx.dexunzhenggu.cn/feed"></outline>
+		<outline text="国家应急广播 - 辽宁省预警信息" type="rss" xmlUrl="https://rsshub.app/cneb/yjxx/%E8%BE%BD%E5%AE%81%E7%9C%81"></outline>
+		<outline text="历史上的今天" type="rss" xmlUrl="https://feedx.net/rss/wikihistory.xml"></outline>
+		<outline text="界面新闻: 财经" type="rss" xmlUrl="https://plink.anyfeeder.com/jiemian/finance"></outline>
+		<outline text="每日古诗文" type="rss" xmlUrl="https://feedx.net/rss/shiwen.xml"></outline>
+		<outline text="BBC Weather - Forecast for  Shenyang, CN" type="rss" xmlUrl="https://weather-broker-cdn.api.bbci.co.uk/en/forecast/rss/3day/2034937"></outline>
+		<outline text="行情_瓶聚网" type="rss" xmlUrl="http://sdjpbz.com/feed/rss.php?mid=7"></outline>
+		<outline text="如有乐享" type="rss" xmlUrl="https://51.ruyo.net/feed"></outline>
+		<outline text="田间小站" type="rss" xmlUrl="https://feedx.net/rss/tjxz.xml"></outline>
+		<outline text="运维世界" type="rss" xmlUrl="https://www.ywsj.cf/rss.xml"></outline>
+		<outline text="老苏的blog" type="rss" xmlUrl="https://laosu.cf/atom.xml"></outline>
+		<outline text="梅塔沃克 - 专注跨境" type="rss" xmlUrl="https://iweec.com/feed"></outline>
+		<outline text="纽约时报双语版" type="rss" xmlUrl="https://feedx.net/rss/nytimesdual.xml"></outline>
+		<outline text="少数派" type="rss" xmlUrl="https://sspai.com/feed"></outline>
+		<outline text="维基百科首页" type="rss" xmlUrl="https://feedx.net/rss/wikiindex.xml"></outline>
+		<outline text="新闻RSS格式页" type="rss" xmlUrl="http://www.pbc.gov.cn/goutongjiaoliu/113456/2986536/index.html"></outline>
+		<outline text="央行最新消息" type="rss" xmlUrl="https://cn.investing.com/rss/central_banks.rss"></outline>
+		<outline text="中国人民银行 工作论文" type="rss" xmlUrl="https://rsshub.app/gov/pbc/gzlw"></outline>
+		<outline text="今日话题 - 雪球" type="rss" xmlUrl="https://xueqiu.com/hots/topic/rss"></outline>
+		<outline text="免费资源网" type="rss" xmlUrl="http://feeds.feedburner.com/freeaday"></outline>
+		<outline text="沧水的博客" type="rss" xmlUrl="https://cangshui.net/feed"></outline>
+		<outline text="中国银保监会-公告通知" type="rss" xmlUrl="https://rsshub.app/cbirc/"></outline>
+		<outline text="即時軍事動態 - 中華民國國防部" type="rss" xmlUrl="https://rsshub.app/gov/taiwan/mnd"></outline>
+		<outline text="阮一峰的网络日志" type="rss" xmlUrl="http://feeds.feedburner.com/ruanyifeng"></outline>
+		<outline text="VPS收割者" type="rss" xmlUrl="https://www.idcoffer.com/feed"></outline>
+		<outline text="华尔街日报" type="rss" xmlUrl="https://feedx.run/rss/wsj.xml"></outline>
+		<outline text="大鸟博客" type="rss" xmlUrl="https://www.daniao.org/feed/"></outline>
+		<outline text="小众软件" type="rss" xmlUrl="https://www.appinn.com/feed/"></outline>
+		<outline text="竹新社 - Telegram Channel" type="rss" xmlUrl="https://rsshub.app/telegram/channel/tnews365"></outline>
+	</body>
+</opml>
